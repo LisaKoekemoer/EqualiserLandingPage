@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EqualiserLandingPage/static/css/main.b4d5fc60.css",
+    "main.js": "/EqualiserLandingPage/static/js/main.fce98142.js",
+    "static/js/453.a641c49a.chunk.js": "/EqualiserLandingPage/static/js/453.a641c49a.chunk.js",
+    "static/media/bg-main-desktop.png": "/EqualiserLandingPage/static/media/bg-main-desktop.8085941e729a2e4c8077.png",
+    "static/media/illustration-app.png": "/EqualiserLandingPage/static/media/illustration-app.ba314fadcdc0e3315830.png",
+    "static/media/logo.svg": "/EqualiserLandingPage/static/media/logo.b38b49b79c8e18b16237a677d93f3eb0.svg",
+    "static/media/icon-android.svg": "/EqualiserLandingPage/static/media/icon-android.4cafae52379b120e0b591571c6b45b9f.svg",
+    "index.html": "/EqualiserLandingPage/index.html",
+    "static/media/icon-instagram.svg": "/EqualiserLandingPage/static/media/icon-instagram.a779ed1848194ec880f5b9e58e880a7d.svg",
+    "static/media/bg-pattern-1.svg": "/EqualiserLandingPage/static/media/bg-pattern-1.3dde5289669be192afd5f1e9b24ab68a.svg",
+    "static/media/icon-apple.svg": "/EqualiserLandingPage/static/media/icon-apple.512441f110679f33cd8eb1e9e9141f2e.svg",
+    "static/media/bg-pattern-2.svg": "/EqualiserLandingPage/static/media/bg-pattern-2.da4438d95f7dcf5bc9f0ec4acd52cc2f.svg",
+    "static/media/icon-twitter.svg": "/EqualiserLandingPage/static/media/icon-twitter.b69f0b210f37b7fb23ae1c79f8c1ccfc.svg",
+    "static/media/icon-facebook.svg": "/EqualiserLandingPage/static/media/icon-facebook.1cdbd08237b627b64f6a823693afb7a2.svg",
+    "main.b4d5fc60.css.map": "/EqualiserLandingPage/static/css/main.b4d5fc60.css.map",
+    "main.fce98142.js.map": "/EqualiserLandingPage/static/js/main.fce98142.js.map",
+    "453.a641c49a.chunk.js.map": "/EqualiserLandingPage/static/js/453.a641c49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d5fc60.css",
+    "static/js/main.fce98142.js"
+  ]
+}
